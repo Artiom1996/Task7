@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task7</string>
+    <string name="text_cant_load_image">can\'t download image , check your image connection</string>
+    <string name="text_start_service">Start service</string>
+    <string name="text_starting_service">service is starting</string>
+    <string name="text_service_finished">Service finished !</string>
+    <string name="text_my_notification">My notification</string>
+</resources>
